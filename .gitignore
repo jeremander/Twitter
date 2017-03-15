@@ -4,6 +4,7 @@
 *.out
 *.txt
 #.json
+tweets/
 
 
 # Byte-compiled / optimized / DLL files
